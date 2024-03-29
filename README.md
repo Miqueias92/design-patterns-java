@@ -10,6 +10,8 @@
 
 # Creational Design Patterns
 
+## ✔️ Factory Method
+
 [Creational Examples](creational/README.md)
 
 # Structural Design Patterns
